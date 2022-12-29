@@ -56,15 +56,15 @@
 ---
 
 # My Github Trophys
-[![trophy](https://github-profile-trophy.vercel.app/?username=healer0528)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=angelsoft-healer)](https://github.com/ryo-ma/github-profile-trophy)
 
 # My Github Status
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=healer0528&show_icons=false&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Smile Angel" />
+    <img src="https://github-readme-stats.vercel.app/api?username=angelsoft-healer&show_icons=false&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Smile Angel" />
 </div>
   
 # My Activity on Github
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=healer0528&custom_title=Smile's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=angelsoft-healer&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 # Where to find me
 <p>
