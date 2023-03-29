@@ -28,4 +28,3 @@ MongoDB, MySQL, PostgreSQL, Firebase
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ktop-developer&count_private=true" width="50.25%"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ktop-developer&layout=compact" width="42%"/>
 </div>
-\
